@@ -1,7 +1,7 @@
 # Hi there! I'm Abetik 👋
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,py,)](https://skillicons.dev)
 
 ## About Me
 
