@@ -7,7 +7,7 @@
 
 - 🏡 From Ukraine  
 - 💻 Middle Web Developer / building web and desktop applications  
-- 🎨 Also creating designs and merch (Redbubble, etc.)  
+- 🎨 Also creating designs.  
 - ✍ Sometimes writing articles and tutorials on Dev.to  
 
 ## Skills
