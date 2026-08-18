@@ -79,14 +79,6 @@ Working with Linux servers, Docker, NGINX, Cloudflare, SSH, application deployme
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abetik\&show_icons=true\&hide_border=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abetik\&layout=compact\&hide_border=true\&theme=github_dark)
-
----
-
 ## 📫 Contact
 
 📧 **Email:** [abetik.dev@gmail.com](mailto:abetik.dev@gmail.com)
