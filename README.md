@@ -20,7 +20,7 @@ I enjoy working across the entire development process — from **UI/UX design an
 
 ### 🗄️ Databases
 
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis\&perline=8)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite\&perline=8)](https://skillicons.dev)
 
 ### 📱 Mobile & Desktop
 
