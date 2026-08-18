@@ -1,7 +1,7 @@
 # Hi there! I'm Abetik 👋
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,nestjs,py,cs,sqlite,mysql,postgres,docker,git,github,figma,vscode,bash,linux,apple,ubuntu,nginx,cloudflare,npm,vite&perline=9)](https://skillicons.dev)
 
 ## About Me
 
